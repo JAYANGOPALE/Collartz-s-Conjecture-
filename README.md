@@ -60,10 +60,4 @@ The Collatz Conjecture might seem simple, but it holds a mysterious allure becau
 
 Through this project, you can explore how simple rules can lead to complex behaviors—a concept that fascinates mathematicians and computer scientists alike.
 
----
 
-## 💡 How To Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/collatz-conjecture-webpage.git
