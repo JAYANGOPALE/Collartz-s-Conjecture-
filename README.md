@@ -50,7 +50,7 @@ This project provides an **interactive web page** where users can explore the Co
 ### ⚙️ Technologies Used:
 - **HTML/CSS**: For building the structure and styling the web page.
 - **JavaScript**: Handles the logic for generating the Collatz sequence and dynamically updating the page.
-- **D3.js or Chart.js**: (Optional, if used) For creating interactive and responsive graphs that represent the sequence visually.
+
 
 ---
 
